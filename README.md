@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Brijesh A</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Brijesh A</h1>
 <h3 align="center">Student from "Annamalai University"</h3>
+<p align="center">
+	<a href="https://github.com/16Brijesh10">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Ready%20to%20learn%20new%20things;DS%20|%20AI%20|%20ML%20Enthusiastic;Ready%20to%20learn%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=16brijesh10&label=Profile%20views&color=0e75b6&style=flat" alt="16brijesh10" /> </p>
 
