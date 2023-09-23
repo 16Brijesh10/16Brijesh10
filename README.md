@@ -1,7 +1,7 @@
 <h1 align="center">
-Hi<a href="https://github.com/16Brijesh10" target="_self"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Brijesh 
+Hi<a href="https://github.com/16Brijesh10" target="_self"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </a>, I'm Brijesh 
 	
-	</a>
+	
 </h1>
 <p align="center">
 	<a href="https://github.com/16Brijesh10">
