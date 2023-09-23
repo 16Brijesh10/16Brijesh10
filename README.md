@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Brijesh A</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 # 💫 About Me:
 >Student from "Annamalai University"<br><br>- 🔭 I’m studying **B.E(CSE)Data science**<br><br>- ♛ International Chess Federation [chess player](https://ratings.fide.com/profile/45094705)<br><br>- ⚡ Fun fact **I think I am funny**
 
