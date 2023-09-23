@@ -1,4 +1,20 @@
-<h1 align="center">Hi 👋, I'm Brijesh A</h1>
+<h1 align="center">
+Hi, I'm Brijesh 
+	<a href="https://github.com/16Brijesh10" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/16Brijesh10">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/16Brijesh10">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Always%20learning%20new%20things;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <h3 align="left">Connect with me:</h3>
