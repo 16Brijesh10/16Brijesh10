@@ -14,7 +14,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Always%20learning%20new%20things;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate student from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
