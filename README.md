@@ -11,7 +11,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 <br/>
 <p align="center">
 	<a href="https://github.com/16Brijesh10">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Always%20learning%20new%20things;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Always%20learning%20new%20things;DS%20|%20AI%20|%20ML%20Enthusiasist;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p
 <h2 align="center"> **A passionate student from India** </h2>
