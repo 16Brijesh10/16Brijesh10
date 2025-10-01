@@ -21,7 +21,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 </p>
 
 # 💫 About Me:
->Student from "Annamalai University"<br><br>- 🔭 I’m studying **B.E(CSE)Data science**<br><br>- ♛ International Chess Federation [chess player](https://ratings.fide.com/profile/45094705)<br><br>- ⚡ Fun fact **I think I am funny**
+>Student from "Annamalai University"<br><br>- 🔭 I’m studying **B.E CSE (Data science)(HONORS)**<br><br>- ♛ International Chess Federation [chess player](https://ratings.fide.com/profile/45094705)<br><br>- ⚡ Fun fact **I think I am funny**
 
 
 ## 🌐 Socials:
