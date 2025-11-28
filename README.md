@@ -35,7 +35,11 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-%237A57D1.svg?style=for-the-badge)
 
-### **Data Engineering / Data Science**
+### **Data Engineering / Pipelines**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### **Data Science**
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
@@ -58,6 +62,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 
 ### **Design**
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=16Brijesh10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
