@@ -25,7 +25,6 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-a-64861426a/) 
 
-# 💻 Tech Stack:
 ## 🚀 Tech Stack
 
 ### **Languages**
