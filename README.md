@@ -14,11 +14,9 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Always%20learning%20new%20things;DS%20|%20AI%20|%20ML%20Enthusiasist;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p
-<h2 align="center"> **A passionate student from India** </h2>
+<h2 align="center"> ## A passionate student  </h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 # 💫 About Me:
 >Student from "Annamalai University"<br><br>- 🔭 I’m studying **B.E CSE (Data science)(HONORS)**<br><br>- ♛ International Chess Federation [chess player](https://ratings.fide.com/profile/45094705)<br><br>- ⚡ Fun fact **I think I am funny**
