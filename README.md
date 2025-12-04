@@ -17,7 +17,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 <h2 align="center"> ## A passionate student  </h2>
 
 
-
+<div align="center">
 # 💫 About Me:
 >Student from "Annamalai University"<br><br>- 🔭 I’m studying **B.E CSE (Data science)(HONORS)**<br><br>- ♛ International Chess Federation [chess player](https://ratings.fide.com/profile/45094705)<br><br>- ⚡ Fun fact **I think I am funny**
 
@@ -76,7 +76,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=16Brijesh10&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
-
+</div>
 ---
 
 <div align="center">
