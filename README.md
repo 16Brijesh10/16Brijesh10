@@ -96,8 +96,4 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/16Brijesh10/16Brijesh10/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/16Brijesh10/16Brijesh10/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/16Brijesh10/16Brijesh10/output/pacman-contribution-graph.svg">
-</picture>
+
