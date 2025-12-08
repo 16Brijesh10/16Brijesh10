@@ -24,6 +24,8 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-a-64861426a/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://brijesh-arumuganainar.netlify.app/)  
+
 
 ## 🚀 Tech Stack
 
