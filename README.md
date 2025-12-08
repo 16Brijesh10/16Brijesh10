@@ -24,7 +24,11 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-a-64861426a/) 
-[<svg width="40" height="40" viewBox="0 0 24 24" fill="white" stroke="black" stroke-width="1.5" xmlns="http://www.w3.org/2000/svg"><path d="M6 19c-2.21 0-4-1.79-4-4 0-1.84 1.24-3.39 2.94-3.86A5.002 5.002 0 0 1 17.9 9.1C20.21 9.36 22 11.33 22 13.75 22 16.1 20.1 18 17.75 18H6z"/></svg>](https://brijesh-arumuganainar.netlify.app/)
+<div align="left">
+  <a href="https://brijesh-arumuganainar.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 
 
