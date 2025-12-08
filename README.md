@@ -72,7 +72,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 ![](https://github-readme-streak-stats.herokuapp.com/?user=16Brijesh10&theme=dark&hide_border=false)<br/>
 ## Most Langugae Used:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=16Brijesh10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16Brijesh10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -82,6 +82,8 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 
 ---
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/16Brijesh10/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/16Brijesh10)  
 
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZml3emFjYXo5ejM4anR2dG90NzQ5c3F4bHdma3NqazUwcXpsamJhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
