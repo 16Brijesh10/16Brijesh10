@@ -72,6 +72,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 ![](https://github-readme-streak-stats.herokuapp.com/?user=16Brijesh10&theme=dark&hide_border=false)<br/>
 ## Most Langugae Used:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=16Brijesh10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16Brijesh10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
