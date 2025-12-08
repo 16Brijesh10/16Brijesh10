@@ -81,7 +81,6 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 ![](https://github-contributor-stats.vercel.app/api?username=16Brijesh10&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
 
 ---
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/16Brijesh10/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/16Brijesh10)  
 
