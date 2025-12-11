@@ -102,3 +102,8 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=16Brijesh10&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/16Brijesh10/16Brijesh10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/16Brijesh10/16Brijesh10/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/16Brijesh10/16Brijesh10/output/pacman-contribution-graph.svg">
+</picture>
