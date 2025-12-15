@@ -70,18 +70,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original-wordmark.svg" />
   </kbd>
   <kbd>
- <kbd>Data-Analysis</kbd>
-<br>
-<br>
-<img width="30px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" />
-<img width="30px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" />
-<img width="30px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
-
-<!-- Databases -->
-<img width="30px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" />
-<img width="30px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" />
-<img width="30px" src="https://seeklogo.com/images/A/apache-cassandra-logo-6A3A7B47C2-seeklogo.com.png" />
-
+ <kbd>Data-Analysis</kbd> <br> <br> <img width="30px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" /> <img width="30px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" /> <img width="30px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" /> </kbd>
   <kbd>
     <kbd>Tools</kbd>
     <br>
