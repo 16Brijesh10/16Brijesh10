@@ -34,7 +34,6 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 
 ## 🚀 Tech Stack
 
-p align="center">
   <kbd>
     <kbd>Languages</kbd>
     <br>
