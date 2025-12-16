@@ -92,7 +92,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- ### 🔝 Top Contributed Repo -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=16Brijesh10&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=16Brijesh10&limit=5&theme=buddhism&combine_all_yearly_contributions=true) -->
 
 ---
 
