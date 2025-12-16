@@ -122,3 +122,4 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 </div>
 
 
+![GitHub Metrics](https://metrics.lecoq.io/16Brijesh10?template=classic&config.timezone=Your/Timezone)
