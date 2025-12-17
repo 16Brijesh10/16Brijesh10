@@ -77,7 +77,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scikitlearn/scikitlearn-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" />	
 	<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" />
-	<img width="30px" src="https://logo.svgcdn.com/logos/seaborn.svg" alt="Seaborn Icon" />
+	<img width="90px" src="https://logo.svgcdn.com/logos/seaborn.svg" alt="Seaborn Icon" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" />
 </p>
   </kbd>
