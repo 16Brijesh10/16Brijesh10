@@ -50,7 +50,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <br>
     <img width="30px"  src="https://skillicons.dev/icons?i=postgres" />
 	<img width="30px"  src="https://skillicons.dev/icons?i=mongodb" />
-	<img width="30px"  src="https://skillicons.dev/icons?i=cassandra />
+	<img width="30px"  src="https://skillicons.dev/icons?i=cassandra" />
 	  
   </kbd>
   <kbd>
