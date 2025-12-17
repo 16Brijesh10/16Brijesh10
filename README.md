@@ -23,13 +23,30 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 >Student from "Annamalai University"<br><br>- 🔭 I’m studying **B.E CSE (Data science)(HONORS)**<br><br>- ♛ International Chess Federation [chess player](https://ratings.fide.com/profile/45094705)<br><br>- ⚡ Fun fact **I think I am funny**
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-a-64861426a/) 
+## 🌐 Socials
+
 <div align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/brijesh-a-64861426a/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      width="40"
+      height="40"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <!-- Portfolio -->
   <a href="https://brijesh-arumuganainar.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img
+      src="https://img.icons8.com/color/48/domain--v1.png"
+      width="40"
+      height="40"
+      alt="Portfolio Website"
+    />
   </a>
 </div>
+
 
 
 
