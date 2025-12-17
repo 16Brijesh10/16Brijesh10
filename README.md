@@ -96,7 +96,8 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 <br>
 <img width="30px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" /> 
 <img width="30px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" /> 
-<img width="30px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" /> </kbd>
+<img width="30px" src="https://logo.svgcdn.com/logos/tableau.svg" alt="Tableau Logo" />
+
   <kbd>
     <kbd>Tools</kbd>
     <br>
