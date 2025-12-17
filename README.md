@@ -69,6 +69,9 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scikitlearn/scikitlearn-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" />
+	<img width="30px" src="https://skillicons.dev/icons?i=fastapi" />
+	<img width="30px" src="https://skillicons.dev/icons?i=flask" />
+	
   </kbd>
   <br>
   <kbd>
@@ -76,11 +79,16 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg">
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" />
+    <img width="30px" src="https://skillicons.dev/icons?i=kafka" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original-wordmark.svg" />
   </kbd>
   <kbd>
- <kbd>Data-Analysis</kbd> <br> <br> <img width="30px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" /> <img width="30px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" /> <img width="30px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" /> </kbd>
+ <kbd>Data-Analysis</kbd> 
+<br> 
+<br>
+<img width="30px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" /> 
+<img width="30px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" /> 
+<img width="30px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" /> </kbd>
   <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -93,8 +101,8 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <kbd>OS</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    <img width="30px" src="https://skillicons.dev/icons?i=ubuntu" />
+    <img width="30px" src="https://skillicons.dev/icons?i=windows" />
   </kbd>
 </p>
 
