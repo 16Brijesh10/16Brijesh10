@@ -14,6 +14,14 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Always%20learning%20new%20things;DS%20|%20AI%20|%20ML%20Enthusiasist;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZml3emFjYXo5ejM4anR2dG90NzQ5c3F4bHdma3NqazUwcXpsamJhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <h2 align="center"> ## A passionate student  </h2>
 
 
@@ -98,17 +106,12 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 
 ![GitHub metrics](https://metrics.lecoq.io/16Brijesh10)  
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZml3emFjYXo5ejM4anR2dG90NzQ5c3F4bHdma3NqazUwcXpsamJhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
 
 ----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### Grapg
+### 🚀 Graph 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=16Brijesh10&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
