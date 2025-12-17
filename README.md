@@ -110,7 +110,9 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
   />
 </div>
 
-
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra" />
+</p>
 
 
 ----
