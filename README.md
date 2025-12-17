@@ -48,7 +48,10 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <kbd>Databases</kbd>
     <br>
     <br>
-    <img width="30px" src= <img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra" /> 
+    <img width="30px" src= <img src="https://skillicons.dev/icons?i=postgres" />
+	<img width="30px" src= <img src="https://skillicons.dev/icons?i=mongodb," />
+	<img width="30px" src= <img src="https://skillicons.dev/icons?i=cassandra />
+	  
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
