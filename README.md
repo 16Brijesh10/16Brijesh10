@@ -62,16 +62,20 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain-wordmark.svg" />
   </kbd>
   <kbd>
-    <kbd>Library/FrameWorks</kbd>
+    <kbd>Frameworks</kbd>
+    <br>
+    <br>
+	<img width="30px" src="https://skillicons.dev/icons?i=fastapi" />
+	<img width="30px" src="https://skillicons.dev/icons?i=flask" />
+  </kbd>
+  <kbd>
+    <kbd>Library</kbd>
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scikitlearn/scikitlearn-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" />
-	<img width="30px" src="https://skillicons.dev/icons?i=fastapi" />
-	<img width="30px" src="https://skillicons.dev/icons?i=flask" />
-	
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" />	
   </kbd>
   <br>
   <kbd>
