@@ -110,10 +110,6 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
   />
 </div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra" />
-</p>
-
 
 ----
 ### ✍️ Random Dev Quote
@@ -122,5 +118,43 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=16Brijesh10&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+-----
+### testing 
+## 🛠️ Tech Stack
 
+### 👨‍💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,r" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra" />
+</p>
+
+### 📊 Data Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
+  <img height="48" src="https://img.icons8.com/color/48/ibm.png"/>
+</p>
+
+### 🔄 Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=airflow,kafka,spark" />
+</p>
+
+### 🧩 Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+### 🔧 Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### 💻 OS & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,windows,ubuntu,docker" />
+</p>
 
