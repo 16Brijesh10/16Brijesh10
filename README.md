@@ -51,7 +51,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
 
 
 ## 🚀 Tech Stack
-
+<div>
   <kbd>
     <kbd>Languages</kbd>
     <br>
@@ -61,6 +61,7 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" />
 	<img width="30px" src="https://skillicons.dev/icons?i=r" />
   </kbd>
+</div>
   <kbd>
     <kbd>Databases</kbd>
     <br>
