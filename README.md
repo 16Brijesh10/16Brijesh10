@@ -102,9 +102,9 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <kbd>Data-engineering</kbd>
     <br>
     <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg">
-    <img width="30px" src="https://skillicons.dev/icons?i=kafka" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original-wordmark.svg" />
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg">
+    <img height="30" src="https://skillicons.dev/icons?i=kafka" />
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original-wordmark.svg" />
   </kbd>
   <br>
 <kbd>
