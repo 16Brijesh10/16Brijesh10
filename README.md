@@ -130,7 +130,6 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <img width="30px" src="https://skillicons.dev/icons?i=ubuntu" />
     <img width="30px" src="https://skillicons.dev/icons?i=windows" />
   </kbd>
-</p>
 
 
 
