@@ -107,13 +107,13 @@ Hi <a href="https://github.com/16Brijesh10" target="_self"> <img src="https://me
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original-wordmark.svg" />
   </kbd>
   <br>
-  <kbd>
- <kbd>Data-Analysis</kbd> 
-<br> 
-<br>
-<img width="30px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" /> 
-<img width="30px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" /> 
-<img width="30px" src="https://logo.svgcdn.com/logos/tableau-icon.svg" alt="Tableau Logo" />
+<kbd>
+  <kbd>Data-Analysis</kbd> 
+  <br><br>
+
+  <img height="30" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" /> 
+  <img height="30" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" /> 
+  <img height="30" src="https://logo.svgcdn.com/logos/tableau-icon.svg" alt="Tableau Logo" />
 </kbd>
 	  <kbd>
     <kbd>Tools</kbd>
