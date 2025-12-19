@@ -1,0 +1,20 @@
+name: Metrics_1
+
+on:
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Plugin SVG
+        uses: lowlighter/metrics@latest
+        with:
+          user: 16Brijesh10
+          filename: plugin.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts: yes
