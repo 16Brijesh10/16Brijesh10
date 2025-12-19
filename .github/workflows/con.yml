@@ -1,0 +1,20 @@
+name: Metrics_contributors
+
+on:
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test con SVG
+        uses: lowlighter/metrics@latest
+        with:
+          user: 16Brijesh10
+          filename: con.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_followup: yes
