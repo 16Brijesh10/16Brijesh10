@@ -1,24 +1,20 @@
-name: contributors
+name: Contributors
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # Runs daily at 00:00 UTC
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
-      - name: contributors
+      - name: Con SVG
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
           user: 16Brijesh10
-          template: classic
+          filename: con.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
           base: ""
           plugin_people_types: contributors, collaborators
           plugin_people_limit: 12
